@@ -35,7 +35,7 @@ body{
 	background: #bd5436;
 }
 #main_header{
-	background: url(../image/car.jpg) no-repeat , #7a7d84;
+	background: url(../Image/car.jpg) no-repeat , #7a7d84;
 	height: 350px;
 	background-blend-mode: multiply;
 	width: 100%;
@@ -174,7 +174,7 @@ body{
 	height: 200px;
 }
 #first{
-	background: url(../image/116.jpg);
+	background: url(../Image/116.jpg);
 	height: 200px;
 	background-position: center;
 	background-size: cover;
@@ -188,14 +188,14 @@ body{
 	background-attachment: fixed;
 }
 #third{
-	background: url(../image/bg102.jpg);
+	background: url(../Image/bg102.jpg);
 	height: 200px;
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
 }
 #fourth{
-	background: url(../image/cc5.jpg);
+	background: url(../Image/cc5.jpg);
 	height: 200px;
 	background-position: center;
 	background-size: cover;
