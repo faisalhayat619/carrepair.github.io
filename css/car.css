@@ -181,7 +181,7 @@ body{
 	background-attachment: fixed;
 }
 #second{
-	background: url(../image/bg2.jpg);
+	background: url(../Image/bg2.jpg);
 	height: 200px;
 	background-position: center;
 	background-size: cover;
